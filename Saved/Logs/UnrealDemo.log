@@ -1,10 +1,19 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 05/22/17 18:40:33
 LogInit:Display: Running engine for game: UnrealDemo
 LogPlatformFile: Not using cached read wrapper
 LogInit:Display: RandInit(-135252930) SRandInit(-135252930).
 LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
 LogStats: Stats thread started at 0.063327
+=======
+﻿Log file open, 05/22/17 18:32:27
+LogInit:Display: Running engine for game: UnrealDemo
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1851347118) SRandInit(-1851347118).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.071235
+>>>>>>> 2a04f5375b0a5865347539548cfc60e4726d9153
 =======
 ﻿Log file open, 05/22/17 18:32:27
 LogInit:Display: Running engine for game: UnrealDemo
@@ -57,6 +66,7 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.15/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2017.05.22-22.40.34:290][  0]LogInit: Selected Device Profile: [Windows]
 [2017.05.22-22.40.34:290][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
@@ -1033,6 +1043,8 @@ LogInit: Object subsystem initialized
 [2017.05.22-23.33.11:008][796]LogExit: Exiting.
 [2017.05.22-23.33.11:041][796]Log file closed, 05/22/17 19:33:11
 =======
+=======
+>>>>>>> 2a04f5375b0a5865347539548cfc60e4726d9153
 [2017.05.22-22.32.27:913][  0]LogInit: Selected Device Profile: [Windows]
 [2017.05.22-22.32.27:914][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2017.05.22-22.32.27:920][  0]LogInit: Computer: ANDI-PC
@@ -1788,4 +1800,7 @@ Exception rethrown at [0]:
 [2017.05.22-23.11.55:766][142]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2017.05.22-23.11.55:767][142]LogExit: Exiting.
 [2017.05.22-23.11.55:774][142]Log file closed, 05/22/17 19:11:55
+<<<<<<< HEAD
+>>>>>>> 2a04f5375b0a5865347539548cfc60e4726d9153
+=======
 >>>>>>> 2a04f5375b0a5865347539548cfc60e4726d9153
